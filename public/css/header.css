@@ -1,0 +1,12 @@
+.header-dropdown-menu {
+    background-color: #232323;
+}
+
+.header-dropdown-menu a{
+    color: #fff !important;
+}
+
+.header-dropdown-menu a:hover {
+    background-color: #232323;
+    color: #fff !important;
+}
